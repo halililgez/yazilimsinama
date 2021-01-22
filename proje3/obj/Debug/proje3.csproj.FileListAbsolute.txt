@@ -1,0 +1,16 @@
+C:\Users\alere\OneDrive\Masaüstü\proje3\proje3\bin\Debug\proje3.exe.config
+C:\Users\alere\OneDrive\Masaüstü\proje3\proje3\bin\Debug\proje3.exe
+C:\Users\alere\OneDrive\Masaüstü\proje3\proje3\bin\Debug\proje3.pdb
+C:\Users\alere\OneDrive\Masaüstü\proje3\proje3\obj\Debug\proje3.csprojAssemblyReference.cache
+C:\Users\alere\OneDrive\Masaüstü\proje3\proje3\obj\Debug\proje3.frmMain.resources
+C:\Users\alere\OneDrive\Masaüstü\proje3\proje3\obj\Debug\proje3.frmToDo.resources
+C:\Users\alere\OneDrive\Masaüstü\proje3\proje3\obj\Debug\proje3.Properties.Resources.resources
+C:\Users\alere\OneDrive\Masaüstü\proje3\proje3\obj\Debug\proje3.csproj.GenerateResource.cache
+C:\Users\alere\OneDrive\Masaüstü\proje3\proje3\obj\Debug\proje3.exe
+C:\Users\alere\OneDrive\Masaüstü\proje3\proje3\obj\Debug\proje3.pdb
+C:\Users\alere\OneDrive\Masaüstü\proje3\proje3\obj\Debug\proje3.frmToDoList.resources
+C:\Users\alere\OneDrive\Masaüstü\proje3\proje3\obj\Debug\proje3.frmYapiliyor.resources
+C:\Users\alere\OneDrive\Masaüstü\proje3\proje3\obj\Debug\proje3.frmYapiliyorListele.resources
+C:\Users\alere\OneDrive\Masaüstü\proje3\proje3\obj\Debug\proje3.frmYapilmis.resources
+C:\Users\alere\OneDrive\Masaüstü\proje3\proje3\obj\Debug\proje3.frmYapilmisListele.resources
+C:\Users\alere\OneDrive\Masaüstü\proje3\proje3\obj\Debug\proje3.proje.resources

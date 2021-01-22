@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alere\\OneDrive\\Masaüstü\\proje3\\UnitTestProject3\\UnitTestProject3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alere\\OneDrive\\Masaüstü\\proje3\\proje3\\proje3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alere\\OneDrive\\Masaüstü\\proje3\\proje3\\proje3.csproj",
+        "projectName": "proje3",
+        "projectPath": "C:\\Users\\alere\\OneDrive\\Masaüstü\\proje3\\proje3\\proje3.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\alere\\OneDrive\\Masaüstü\\proje3\\UnitTestProject3\\UnitTestProject3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alere\\OneDrive\\Masaüstü\\proje3\\UnitTestProject3\\UnitTestProject3.csproj",
+        "projectName": "UnitTestProject3",
+        "projectPath": "C:\\Users\\alere\\OneDrive\\Masaüstü\\proje3\\UnitTestProject3\\UnitTestProject3.csproj",
+        "packagesPath": "C:\\Users\\alere\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alere\\OneDrive\\Masaüstü\\proje3\\UnitTestProject3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alere\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\alere\\OneDrive\\Masaüstü\\proje3\\proje3\\proje3.csproj": {
+                "projectPath": "C:\\Users\\alere\\OneDrive\\Masaüstü\\proje3\\proje3\\proje3.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

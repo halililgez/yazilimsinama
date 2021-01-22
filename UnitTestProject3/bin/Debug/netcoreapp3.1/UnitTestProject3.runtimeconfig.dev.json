@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\alere\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\alere\\.nuget\\packages"
+    ]
+  }
+}
